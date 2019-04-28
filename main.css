@@ -5,27 +5,62 @@
   color:Orange
 }
 
-#firstfav{
-  font-size:32px;
+#hobbies{font-size:40px;
+  color:black;
+  Font-weight:bold;
+text-align:center;
+}
+
+#firstfav{font-size:32px;
   font-weight:550;
   text-align:center;
   color:Green;
 }
 
-#secondfav{font-size:70px;
-  font-weight:600;
+#secondfav{font-size:32px;
+  font-weight:550;
   text-align:center;
   color:Gray;
 }
 
-#thirdfav{font-size:98px;
-  font-weight:700;
+#thirdfav{font-size:32px;
+  font-weight:550;
   text-align:center;
   color:Blue;
 }
 
-#fourthfav{font-size:15px;
-  font-weight:650;
+#fourthfav{font-size:32px;
+  font-weight:550;
+  text-align:center;
+  color:Purple;
+}
+
+#cars{font-size:40px;
+  color:black;
+  Font-weight:bold;
+text-align:center;
+}
+
+#firstcar{font-size:32px;
+  font-weight:550;
+  text-align:center;
+  color:Red;
+}
+
+#secondcar{font-size:32px;
+  font-weight:550;
+  text-align:center;
+  color:Gray;
+}
+
+#thirdcar{font-size:32px;
+  font-weight:550;
+  text-align:center;
+  color:Blue;
+}
+
+#fourthcar{font-size:32px;
+  font-weight:550;
   text-align:center;
   color:Purple;
 }
@@ -36,23 +71,26 @@
 text-align:center;
 }
   
-#firstquote{font-size:30px;
-  font-weight:100;
-font-family:Impact;
+#firstquote{font-weight:300;
+font-family:Comic Sans MS;
 color:red
 }
 
-#secondquote{font-size:20px;
-  font-weight:700;
+#secondquote{font-weight:300;
 font-family:Comic Sans MS;
 color:Orange
 }
 
-#thirdquote{font-size:10px;
-  font-weight:150;
-font-family:Lucida Console;
+#thirdquote{font-weight:300;
+font-family:Comic Sans MS;
 color:Pink
 }
+
+#firstcar{font-size:32px;
+  font-weight:550;
+  text-align:center;
+  color:Green}
+
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
